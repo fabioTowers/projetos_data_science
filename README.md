@@ -1,4 +1,4 @@
-![alt text]("https://github.com/fabioTowers/projetos_data_science/blob/master/banner.png")
+![alt text](https://github.com/fabioTowers/projetos_data_science/blob/master/banner.png "Logo Title Text 1")
 
 # Portfólio de projetos de Data Science
 
